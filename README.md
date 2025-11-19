@@ -1,2 +1,2 @@
 # Oscar-Clement
-Groupe projet EFREI P1 SC1
+Groupe 2 projet EFREI P1 SC1
